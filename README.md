@@ -31,6 +31,8 @@
   <a href = "mailto:rhuambello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=+5521968892704" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
-
-<br>
+ 
+![Snake animation](https://github.com/rhuanbello/rhuanbello/blob/output/github-contribution-grid-snake.svg)
+ 
 <img src="https://komarev.com/ghpvc/?username=rhuanbello&label=Visits">
+
