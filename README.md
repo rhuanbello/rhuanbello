@@ -1,6 +1,6 @@
 ## Hi, I'm Rhuan Bello 👋
 
-- 🔭 I’m currently working with Front-End Development
+- 🔭 I’m currently studying Front-End Development
 - 🌱 I’m currently learning JavaScript
 - ☄ I’m looking foward to start learning React.js
 - ❤ Tech, Coding and Arts
