@@ -25,7 +25,7 @@
 </div>
 
 <div style="display: inline_block"><br> 
-  <a href="https://rhuanbello.vercel.app/" target="_blank"><img src="http://svgur.com/i/bB9.svg"></a>
+  <a href="https://www.rhuanbello.com" target="_blank"><img src="http://svgur.com/i/bB9.svg"></a>
   <a href="https://www.linkedin.com/in/rhuanbello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/rhuanbello/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/rhuanbello" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
