@@ -1,10 +1,10 @@
 ## Hi, I'm Rhuan Bello 👋
 
 - 🔭 I’m currently studying Front-End Development
-- 🌱 I’m currently learning JavaScript
-- ☄ I’m looking foward to start learning React.js
+- 🌱 I’m currently learning React and React Native
 - ❤ Tech, Coding and Arts
 - ⚡ Fun fact: I'm also a photographer and lover of movies and music!
+<!-- - ☄ I’m looking foward to start building awesome apps! -->
 
  <div>
   <a href="https://github.com/rhuanbello">
