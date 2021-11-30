@@ -7,10 +7,11 @@
 <!-- - ☄ I’m looking foward to start building awesome apps! -->
 
  <div>
-  <a href="https://github.com/rhuanbello">
   <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=rhuanbello&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhuanbello&layout=compact&langs_count=7&theme=react"/>
+<!--   <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhuanbello&layout=compact&langs_count=7&theme=react"/> -->
+   <img width="480em" src="https://i.imgur.com/m7KcGxP.png"/>
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,7 +26,7 @@
 </div>
 
 <div style="display: inline_block"><br> 
-  <a href="https://www.rhuanbello.com" target="_blank"><img src="http://svgur.com/i/bB9.svg"></a>
+  <a href="https://www.rhuanbello.com" target="_blank"><img src="https://i.imgur.com/MymA43I.png"></a>
   <a href="https://www.linkedin.com/in/rhuanbello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/rhuanbello/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/rhuanbello" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
@@ -36,4 +37,6 @@
 ![Snake animation](https://github.com/rhuanbello/rhuanbello/blob/output/github-contribution-grid-snake.svg)
  
 <img src="https://komarev.com/ghpvc/?username=rhuanbello&label=Visits">
+<img src="https://wakatime.com/badge/user/7c8afd8e-6490-43bb-b980-a081626d34af.svg">
+
 
