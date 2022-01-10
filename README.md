@@ -1,7 +1,7 @@
 ## Hi, I'm Rhuan Bello 👋
 
 - 🔭 I’m currently studying Front-End Development
-- 🌱 I’m currently learning React and React Native
+- 🌱 I’m currently learning React.js and Node.js
 - ❤ Tech, Coding and Arts
 - ⚡ Fun fact: I'm also a photographer and lover of movies and music!
 <!-- - ☄ I’m looking foward to start building awesome apps! -->
