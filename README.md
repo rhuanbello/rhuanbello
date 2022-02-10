@@ -38,8 +38,9 @@
   <a href="https://api.whatsapp.com/send?phone=+5521968892704" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
  
-![Snake animation](https://github.com/rhuanbello/rhuanbello/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/rhuanbello/rhuanbello/blob/output/github-contribution-grid-snake.svg) -->
  
+<br>
 <img src="https://komarev.com/ghpvc/?username=rhuanbello&label=Visits">
 <img src="https://wakatime.com/badge/user/7c8afd8e-6490-43bb-b980-a081626d34af.svg">
 
