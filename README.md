@@ -1,18 +1,28 @@
-## Hi, I'm Rhuan Bello 👋
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Rhuan :)</b>
+<br>
 
-- 🔭 I’m currently studying Front-End Development
-- 🌱 I’m currently learning React.js, Next.js and Redux
+<p aligh="left">
+<!--   <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/> -->
+  <p>Hey there, welcome!</br>
+  I'm Rhuan Bello, Front End developer from <img src="http://mds.gov.br/obid/entrevistas/brazil.png" width="14px"/> <b>Rio de Janeiro, Brasil</b>.</p>
+
+- 💡  I like to explore new trends and learn new technologies.
+- 🌱 I'm on track for learning more about React, Redux, TypeScript and NextJS.
 - ❤ Tech, Coding and Arts
 - ⚡ Fun fact: I'm also a photographer and lover of movies and music!
-<!-- - ☄ I’m looking foward to start building awesome apps! -->
 
- <div>
-  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=rhuanbello&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhuanbello&layout=compact&langs_count=7&theme=react"/> -->
-   <img width="450em" src="https://i.imgur.com/w8cF9mr.png"/>
-</div>
+## 📈 &nbsp;Some Code Stats ##
+
+<span align="left" width="45%">
+
+![Rhuan Bello Stats](https://github-readme-stats.vercel.app/api?username=rhuanbello&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
+</span>
+<span align="right">
+ <img width="50%" src="https://i.imgur.com/w8cF9mr.png"/>
+</span>
 
 
+## 👨🏻‍💻 &nbsp;Things I code with ##
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -29,6 +39,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
+## 🌎 &nbsp;Where to find me ##
 <div style="display: inline_block"><br> 
   <a href="https://www.rhuanbello.com" target="_blank"><img src="https://i.imgur.com/MymA43I.png"></a>
   <a href="https://www.linkedin.com/in/rhuanbello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -37,6 +48,9 @@
   <a href = "mailto:rhuambello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=+5521968892704" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
+
+
+
  
 <!-- ![Snake animation](https://github.com/rhuanbello/rhuanbello/blob/output/github-contribution-grid-snake.svg) -->
  
