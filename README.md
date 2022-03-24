@@ -7,7 +7,7 @@
   I'm Rhuan Bello, Front End developer from <img src="http://mds.gov.br/obid/entrevistas/brazil.png" width="14px"/> <b>Rio de Janeiro, Brasil</b>.</p>
 
 - 💡  I like to explore new trends and learn new technologies.
-- 🌱 I'm on track for learning more about React, Redux, TypeScript and NextJS.
+- 🌱 I'm currently learning Next.js, GraphQL, Apollo, Jest and Storybook.
 - ❤ Tech, Coding and Arts
 - ⚡ Fun fact: I'm also a photographer and lover of movies and music!
 
