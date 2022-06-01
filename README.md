@@ -1,10 +1,7 @@
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Rhuan :)</b>
-<br>
-
 <p aligh="left">
 <!--   <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/> -->
   <p>Hey there, welcome!</br>
-  I'm Rhuan Bello, Front End developer from <img src="http://mds.gov.br/obid/entrevistas/brazil.png" width="14px"/> <b>Rio de Janeiro, Brasil</b>.</p>
+  I'm Rhuan Bello, Front End developer from <b>Rio de Janeiro, Brasil</b>.</p>
 
 - 💡  I like to explore new trends and learn new technologies.
 - 🌱 I'm currently learning Next.js, GraphQL, Apollo, Jest and Storybook.
