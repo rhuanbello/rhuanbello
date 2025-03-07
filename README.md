@@ -3,28 +3,13 @@
   <p>Hey there, welcome!</br>
   I'm Rhuan Bello, Front End developer from <b>Rio de Janeiro, Brasil</b>.</p>
 
-- 💡  I like to explore new trends and learn new technologies.
-- 🌱 I'm currently learning more about Next.js 13, Tailwind CSS and React Hook Forms.
-- ❤ Tech & Coding
-
-## 📈 &nbsp;Some Code Stats ##
-
-<div width="100%">
- <span align="left">
-   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rhuanbello&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF"/>
- </span>
-<!--  <span align="right">
-  <img width="45%" src="https://i.imgur.com/w8cF9mr.png"/>
- </span> -->
-</div>
-
 ## 👨🏻‍💻 &nbsp;Things I code with ##
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" height="30" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" alt="redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+  <img align="center" height="30" width="40" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" height="30" width="40" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" alt="nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">    
+  <img align="center" height="30" width="40" alt="redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   <img align="center" height="30" width="40" alt="graphql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">    
   <img align="center" height="30" width="40" alt="storybook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg">    
   <img align="center" height="30" width="40" alt="materialui" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
